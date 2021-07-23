@@ -1,0 +1,2 @@
+# Park-With-Us
+It is a project made in my First Year for the HACKIIITV'19 which was a intra-institute hackathon . With this idea my team was able to get in top 6 among the 30+ participating teams. It was basically a Parking Lot Booking System where the user can book his parking slot very easily and smoothly . It is being made to overcome the crowd , save time and avoid the towing of vehicle for violating the parking rules. .
